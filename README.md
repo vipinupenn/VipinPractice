@@ -1,7 +1,7 @@
 #VipinPractice
 
 
-This project is based on Rest-assured libraries and integrated with cucumber BDD framework.
+This project is utilizing Rest-assured libraries and integrated with cucumber BDD framework.
 
 In order to run the test, navigate to "/src/test/java/stepDefinitions/TestRunner.java" and run the tests.
 
